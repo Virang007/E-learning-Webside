@@ -34,7 +34,7 @@ This project is a comprehensive E-learning platform built using HTML, CSS (Boots
 
 ## Design and UI/UX
 
-## Screenshots
+## Screenshot
 
 ### Screenshot 1
 ![Screenshot 1](https://github.com/Virang007/ElearningWeb/assets/104147123/dbb4095b-691d-4a0a-a9d5-4c5f0d8f279c)
