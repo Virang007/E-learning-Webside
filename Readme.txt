@@ -1,4 +1,3 @@
-
 # E-learning Website
 
 This project is a comprehensive E-learning platform built using HTML, CSS (Bootstrap), JavaScript, PHP, and MySQL. The website aims to provide a user-friendly and responsive environment for online learning.
